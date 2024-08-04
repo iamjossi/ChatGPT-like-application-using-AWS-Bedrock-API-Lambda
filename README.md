@@ -15,5 +15,5 @@ Deploy API. Copy the URL endpoint
 
 Use postman to test the API using the URL endpoint slash ask and post method.
 
-Code used for the lambda function is included in this repository.
+Code used for the lambda function is included in this repository. Refer to the AWS documentation.
      
