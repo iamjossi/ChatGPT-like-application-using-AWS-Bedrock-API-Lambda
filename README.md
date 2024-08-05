@@ -1,4 +1,4 @@
-# ChatGPT-like-application-using-AWS-Bedrock-API-Lambda
+# ChatGPT-like-application-using-AWS-Bedrock-RestAPI-Lambda
 
 Built a ChatGPT like application using AWS Bedrock, API and Lambda
 
